@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Products on KnitAndNailed</title>
-    <link>https://examplesite.com/products/</link>
-    <description>Recent content in Products on KnitAndNailed</description>
+    <title>Products on Knit and Nailed</title>
+    <link>https://psalwasser.github.io/knitandnailed/products/</link>
+    <description>Recent content in Products on Knit and Nailed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
     
-	<atom:link href="https://examplesite.com/products/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://psalwasser.github.io/knitandnailed/products/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Baseball Themed Wall Art</title>
-      <link>https://examplesite.com/products/baseballwallart/</link>
+      <link>https://psalwasser.github.io/knitandnailed/products/baseballwallart/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://examplesite.com/products/baseballwallart/</guid>
+      <guid>https://psalwasser.github.io/knitandnailed/products/baseballwallart/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Cotton Face Mask</title>
-      <link>https://examplesite.com/products/cottonmask/</link>
+      <link>https://psalwasser.github.io/knitandnailed/products/cottonmask/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://examplesite.com/products/cottonmask/</guid>
+      <guid>https://psalwasser.github.io/knitandnailed/products/cottonmask/</guid>
       <description>Please note that this face mask is not intended to treat, cure or prevent any disease or allergen.
 Cotton fabric with a built in pocket in the back to add additional filter/fabric/etc.</description>
     </item>
     
     <item>
       <title>Textured Knit Hat</title>
-      <link>https://examplesite.com/products/textureknithat/</link>
+      <link>https://psalwasser.github.io/knitandnailed/products/textureknithat/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://examplesite.com/products/textureknithat/</guid>
+      <guid>https://psalwasser.github.io/knitandnailed/products/textureknithat/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
